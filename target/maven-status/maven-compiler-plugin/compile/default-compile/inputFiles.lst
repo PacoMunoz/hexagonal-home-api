@@ -1,0 +1,17 @@
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/aplication/measurement/dto/MeasurementDTO.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/domain/entity/measurement/Measurement.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/aplication/measurement/service/CreateMeasurementImpl.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/domain/repository/measurement/CreateMeasurementRepository.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/domain/repository/measurement/QueryMeasurementRepository.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/aplication/measurement/dto/GetMeasurement.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/infractructure/repository/measurement/MeasurementMapper.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/infractructure/repository/measurement/MeasurementRepository.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/infractructure/repository/measurement/QueryMeasurementRepositoryImpl.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/domain/entity/measurement/Location.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/domain/exception/DomainException.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/infractructure/domain/measurement/MeasurementPO.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/domain/entity/measurement/MeasurementId.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/aplication/measurement/service/CreateMeasurement.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/infractructure/entrypoint/api/CommandMeasurementController.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/HomedataserviceApplication.java
+/home/paco/trabajo/01-IOT/01-Code/02-Versino_hexagonal/homedataservice/src/main/java/com/pmg/homedataservice/infractructure/repository/measurement/CreateMeasurementRepositoryImpl.java
